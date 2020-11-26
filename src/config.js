@@ -19,7 +19,7 @@ var Options = {
     {
       name: 'US Dollars',
       currency: 'USD',
-      priority: 1,
+      priority: 3,
       gateways: {
         Bitstamp: 'rvYAfWj5gh67oV6fW32ZzP3Aw4Eubs59B'
       }
@@ -35,17 +35,17 @@ var Options = {
     {
       name: 'Chinese Yuan',
       currency: 'CNY',
-      priority: 3,
+      priority: 4,
       gateways: {
         RippleFox: 'rKiCet8SdvWxPXnAgYarFUXMh1zCPz432Y'
       }
     },
     {
-      name: 'Japanese Yen',
-      currency: 'JPY',
-      priority: 4,
+      name: 'Dxperts',
+      currency: 'DXP',
+      priority: 1,
       gateways: {
-        MrRipple: 'rB3gZey7VWHYRqJHLoHDEJXJ2pEPNieKiS'
+        MrRipple: 'rM8AhEC5Zz46ecWC8KwkoMugY1KwFQqhZT'
       }
     }
   ],
